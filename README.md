@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Next.js Intro
 
-[Next.js](https://nextjs.org/) is an open source framework built on `React` and `Node.sj` that allows for **SSR** (*Server Side Rendering*) using `.jsx` components and a react-style workflow. This is in contrast to react's typical **CSR** (*client side rendering*), and comes with certain advantages and caveats. 
+[Next.js](https://nextjs.org/) is an open source framework built on `React` and `Node.js` that allows for **SSR** (*Server Side Rendering*) using `.jsx` components and a react-style workflow. This is in contrast to react's typical **CSR** (*client side rendering*), and comes with certain advantages and caveats. 
 
 It is maintained by [Vercel](https://vercel.com/home?utm_source=next-site&utm_medium=banner&utm_campaign=next-website) who provides excellent [documentation](https://nextjs.org/docs) and extremely easy deploymment.
 
