@@ -52,6 +52,4 @@ What then is a static site?
 * the `<Head>` Component in your `index.js` is like the head of an html file.
 * if you want to make child components, they should be put in a folder called `components` that is a sibling of `pages`
 
-#### Next.js Resources
-
 *[image credits](https://www.growth-rocket.com/blog/a-closer-look-at-client-side-server-side-rendering/)*
