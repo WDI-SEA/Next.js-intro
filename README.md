@@ -39,8 +39,7 @@ What then is a static site?
 
 ## Next.js Cheatsheet
 
-* `npm i -g create-next-app` to install creat-next-app globally
-* `create-next-app <app-name>` to create a next app in a directory called `<app-name>`
+* `npx create-next-app <app-name>` to create a next app in a directory called `<app-name>`
 * `npm run dev` will run a script that builds your next app and fires up the server for live reload
 
 #### Using Next.js
