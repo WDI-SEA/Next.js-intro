@@ -55,5 +55,8 @@ What then is a static site?
 
 * The Next.js [docs](https://nextjs.org/docs/getting-started) and [tutorials](https://nextjs.org/learn/foundations/about-nextjs) are really good
 * Vercel has a [learn-next repo](https://github.com/vercel/next-learn) full of examples to accompany their tutorials 
+* Checkout the advanced next features like [using mdx to parse markdown to make a blog](https://nextjs.org/docs/advanced-features/using-mdx)
 
-*[image credits](https://www.growth-rocket.com/blog/a-closer-look-at-client-side-server-side-rendering/)*
+## Sources 
+
+[image credits](https://www.growth-rocket.com/blog/a-closer-look-at-client-side-server-side-rendering/)*
