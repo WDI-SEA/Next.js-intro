@@ -59,4 +59,4 @@ What then is a static site?
 
 ## Sources 
 
-[image credits](https://www.growth-rocket.com/blog/a-closer-look-at-client-side-server-side-rendering/)*
+*[image credits](https://www.growth-rocket.com/blog/a-closer-look-at-client-side-server-side-rendering/)*
