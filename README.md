@@ -42,7 +42,7 @@ What then is a static site?
 * `npx create-next-app <app-name>` to create a next app in a directory called `<app-name>`
 * `npm run dev` will run a script that builds your next app and fires up the server for live reload
 
-#### Using Next.js
+### Using Next.js
 
 * the public folder is static (you can config the favicon here)
 * the styles folder is for css -- `globals.css` is applied everywhere
@@ -50,5 +50,10 @@ What then is a static site?
 * routes are made in the pages folder and `.jsx` components -- remember to lower case the file names!
 * the `<Head>` Component in your `index.js` is like the head of an html file.
 * if you want to make child components, they should be put in a folder called `components` that is a sibling of `pages`
+
+### Next.js Resources
+
+* The Next.js [docs](https://nextjs.org/docs/getting-started) and [tutorials](https://nextjs.org/learn/foundations/about-nextjs) are really good
+* Vercel has a [learn-next repo](https://github.com/vercel/next-learn) full of examples to accompany their tutorials 
 
 *[image credits](https://www.growth-rocket.com/blog/a-closer-look-at-client-side-server-side-rendering/)*
